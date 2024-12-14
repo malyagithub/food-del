@@ -1,6 +1,10 @@
-
-
+🌟 Explore Our Live Food Delivery Website! 🍔🚀
 https://food-del-frontend-7r95.onrender.com
+
+🔐 Dive Into the Admin Panel! ⚙️📊
+Take control of the backend magic! Explore the powerful features of our admin panel for managing orders, menus, and more. Click below to get started: 👇
+https://food-del-admin-dqj5.onrender.com
+
 
 About Our Food Delivery Website 🚀🍔
 Welcome to the ultimate online food ordering experience! Our Food Delivery Website is more than just an ordering platform—it's your go-to solution for fast, secure, and seamless food deliveries.
