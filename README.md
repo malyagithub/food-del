@@ -22,3 +22,5 @@ To Start admin
 npm run dev
 
 
+![image alt](https://github.com/malyagithub/food-del/blob/bd32987df6ff0234a293ab35ad7b2a0da4202dd6/Screenshot%202024-12-14%20110546.png)
+
